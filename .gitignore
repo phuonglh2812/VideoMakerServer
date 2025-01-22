@@ -1,0 +1,11 @@
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+*.log
+*.tmp
+*.bak
+*.cache
+node_modules/
+.env
